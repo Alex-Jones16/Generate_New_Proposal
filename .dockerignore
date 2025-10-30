@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+.env
+.git
+.gitignore
+README.md
+**/.venv/
+**/node_modules/
+**/.DS_Store

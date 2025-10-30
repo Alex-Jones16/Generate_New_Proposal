@@ -1,0 +1,39 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment files
+.env
+.env.*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node / Frontend (if any)
+node_modules/
+frontend/dist/
+
+# Local data (avoid committing sample data)
+proposal_store.json
+
+# Coverage / build
+htmlcov/
+.coverage*
+build/
+dist/
